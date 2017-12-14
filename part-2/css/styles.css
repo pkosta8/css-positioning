@@ -33,3 +33,11 @@ figure {
   padding: 20px;
 
 }
+
+.film-poster {
+position: relative;
+float: left;
+width: 20%;
+margin-right: 20px;
+
+  }
