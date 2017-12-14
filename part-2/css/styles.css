@@ -23,11 +23,13 @@ figure {
   margin: 0;
 }
 
+
 .film {
   position: relative;
-  width: 100%;
+  width: 50%;
   margin: 40px auto;
   overflow: hidden;
-  border: 1px solid grey;
+  border: 5px solid grey;
   padding: 20px;
+
 }
